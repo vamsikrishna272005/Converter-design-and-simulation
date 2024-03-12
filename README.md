@@ -1,7 +1,7 @@
 # Converter-design-and-simulation
 
 # Aim
-To design and simulate AC to DC converter and DC voltage regulator using proteus.
+To design and simulate AC to DC converter & DC voltage regulator using proteus.
 
 # Software’s required
 
@@ -104,8 +104,9 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 
 
 
+
 # Result 
 
-Thus the AC to DC converter and DC voltage regulator are designed and simulated
+Thus the AC to DC converter and DC voltage regulator are designed and simulated using Proteus.
 
 
